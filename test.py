@@ -1,5 +1,5 @@
 def add(n, m):
   return n + m
 
-def subtract(m, n):
+def subtract(n, m):
   return n - m
